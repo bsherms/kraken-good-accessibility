@@ -60,14 +60,17 @@ html {
 
 @media print {
 
+  .no-print {
+    display: none;
+  }
+
   .inset-img {
+    display: none;
     border-color: #000;
   }
 
   .chapter-ends {
-    border-color: #fff;
     background-color: #fff;
-    color: #000;
   }
 
 }
