@@ -71,6 +71,8 @@ html {
 
   .chapter-ends {
     border-color: #fff;
+    background-color: #fff;
+    color: #000;
   }
 
 }
